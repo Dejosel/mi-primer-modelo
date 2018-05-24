@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  duration: 2018-05-23 23:16:55
+  year: 1
+  image_url: MyText
+  rating: MyText
+
+two:
+  name: MyString
+  description: MyText
+  duration: 2018-05-23 23:16:55
+  year: 1
+  image_url: MyText
+  rating: MyText
